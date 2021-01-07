@@ -48,6 +48,6 @@ test:
 #
 production:
   <<: *default
-  database: crazy_app_production
-  username: crazy_app
-  password: <%= ENV['CRAZY_APP_DATABASE_PASSWORD'] %>
+  database: dc5sjofffb2hk4
+  username: ivdhicgzuzruux
+  password: c542185e6a6a8b1e15b93ab6283ff33e24404c9c8c93f9d45496a793156b7fe3

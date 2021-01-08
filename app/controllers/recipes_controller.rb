@@ -37,6 +37,10 @@ class RecipesController < ApplicationController
     end
   end
 
+  def example
+    
+  end
+
   # PATCH/PUT /recipes/1
   # PATCH/PUT /recipes/1.json
   def update
